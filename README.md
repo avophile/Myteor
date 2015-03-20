@@ -1,4 +1,4 @@
-This is a Vagrant configuration for running Meteor apps on Ubuntu 14.04, for use with a Windows host.
+This is a Vagrant configuration for running Meteor apps on Ubuntu 14.04, for use with a Mac host.
 
 ## Background
 
