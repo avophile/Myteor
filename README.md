@@ -8,8 +8,6 @@ The Vagrantfile also:
 - Provisions the VM by installing Meteor.
 - Enables port forwarding on the VM for the default meteor port.
 
-**Note: On Windows, the shell that runs `vagrant up` and `vagrant ssh` must be run as administrator.**
-
 ## Instructions
 
 Start up the Vagrant VM:
